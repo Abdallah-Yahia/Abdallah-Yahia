@@ -14,7 +14,7 @@
 
 - 📌 My Certificates: [Google Drive](https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing)
 
-- 📄 My CV: [View here](https://drive.google.com/file/d/1l1Ju3BgPOueBZo9bOVc3ztmWjlyOhmRR/view?usp=sharing)
+- 📄 My CV: [View here](https://drive.google.com/drive/u/0/folders/1Pt6m650Hzk6pXYn1DBtdhJjF5IcEfcE7)
 
 - 📢 Reach me at: **abdallahyahia202@gmail.com**
 
