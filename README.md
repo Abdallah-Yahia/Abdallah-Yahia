@@ -49,6 +49,10 @@
 
 ### 🛠️ Tools:
 <p>
+  <a href="https://eda.sw.siemens.com/en-US/ic/questa-one/design-solutions/lint/" target="_blank" rel="noreferrer">
+  <img src="https://drive.google.com/uc?export=view&id=1nLolSbXkpJdrzqGtHPqYwce16c7CW7Ls" alt="Questa Lint" width="40" height="40" style="box-shadow: 0px 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+</a>
+  
   <a href="https://eda.sw.siemens.com/en-US/ic/questa/simulation/advanced-simulator/" target="_blank" rel="noreferrer">
     <img src="QuestaSim.png" alt="QuestaSim" width="40" height="40" style="box-shadow: 0px 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
