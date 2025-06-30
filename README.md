@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="images/chip.png" alt="IC Chip" width="600">
-</p>
-
 <h1 align="center">Hi 👋, I'm Abdallah Yahia</h1>
 <h3 align="center">A passionate Digital IC Design & ASIC Engineer</h3>
 
