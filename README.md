@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdallah Yahia</h1>
 <h3 align="center">A passionate Digital IC Design & ASIC Engineer</h3>
 
-About me
-
+# About me:
 <picture> 
   <img align="right" src="https://clipart-library.com/img/2091643.gif" width="350px">
 </picture>
@@ -22,7 +21,7 @@ About me
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/abdallah-yahia" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
