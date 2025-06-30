@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking to collaborate on **Digital IC design and ASIC-related projects**
 
-- 📌 My Certificates: [Google Drive](https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing)
+- 📌 My Certificates: [View here](https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing)
 
 - 📄 My CV: [View here](https://drive.google.com/file/d/1eHvlaL44qvbzmGHJzgocBlZpQ-LxaD17/view?usp=drive_link)
 
