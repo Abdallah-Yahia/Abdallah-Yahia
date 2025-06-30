@@ -58,6 +58,9 @@
   <a href="https://www.microsemi.com/document-portal/doc_view/136363-modelsim-me-10-4c-tutorial-for-libero-soc-v11-7" target="_blank" rel="noreferrer">
     <img src="ModelSim.png" alt="ModelSim" width="40" height="40" style="box-shadow: 0px 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
+  <a href="https://www.ni.com/en-us/support/downloads/software-products/download.multisim.html" target="_blank" rel="noreferrer">
+    <img src="https://www.nesabamedia.com/wp-content/uploads/2021/10/Multisim-Logo-1.png" alt="Multisim" width="40" height="40" style="box-shadow: 0px 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+  </a>
   <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git" style="box-shadow: 0px 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
 </p>
 
