@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdallah Yahia</h1>
 <h3 align="center">A passionate Digital IC Design & ASIC Engineer</h3>
 
-- 💻 I’m currently learning **Verilog, Linux, and the Digital ASIC IC Design flow**
-
 - ✨ I’m currently participating in **the summer internship on Digital Design Using FPGA, sponsored by NTI**
+
+- 💻 I’m currently learning **Verilog, Linux, and the Digital ASIC IC Design flow**
 
 - 🤝 I’m looking to collaborate on **Digital IC design and ASIC-related projects**
 
