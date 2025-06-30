@@ -3,7 +3,7 @@
 
 # About me:
 <picture> 
-  <img align="right" src="https://clipart-library.com/img/2091643.gif" width="350px">
+  <img align="right" src="https://clipart-library.com/img/2091643.gif" width="300px">
 </picture>
 
 
