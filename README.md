@@ -6,7 +6,6 @@
   <img align="right" src="https://clipart-library.com/img/2091643.gif" width="300px">
 </picture>
 
-
 - ✨ I’m currently participating in **the summer internship on Digital Design Using FPGA, sponsored by NTI**
 
 - 💻 I’m currently learning **Verilog, Linux, and the Digital ASIC IC Design flow**
@@ -17,7 +16,7 @@
 
 - 📄 My CV: [View here](https://drive.google.com/file/d/1l1Ju3BgPOueBZo9bOVc3ztmWjlyOhmRR/view?usp=sharing)
 
-- 📫 Reach me at: **abdallahyahia202@gmail.com**
+- 📢 Reach me at: **abdallahyahia202@gmail.com**
 
 ---
 
@@ -31,74 +30,42 @@
   </a>
 </p>
 
-
 ---
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Skills</b>
 
-
-### 💻 Languages:
-
-<p align="center">
-
-<code>
+### 🧠 Languages:
+<p>
   <a href="https://www.chipverify.com/" target="_blank" rel="noreferrer">
-    <img src="verilog.png" alt="Verilog" width="40" height="40"/>
+    <img src="verilog.png" alt="Verilog" width="40" height="40" style="box-shadow: 0px 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
-</code>
-
-<code>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="box-shadow: 0px 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
-</code>
-
-<code>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="box-shadow: 0px 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
-</code>
-
 </p>
 
 ### 🛠️ Tools:
-
-<p align="center">
-
-<code>
+<p>
   <a href="https://eda.sw.siemens.com/en-US/ic/questa/simulation/advanced-simulator/" target="_blank" rel="noreferrer">
-    <img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/>
+    <img src="QuestaSim.png" alt="QuestaSim" width="40" height="40" style="box-shadow: 0px 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
-</code>
-
-<code>
   <a href="https://digilent.com/reference/programmable-logic/guides/vivado-hardware-manager" target="_blank" rel="noreferrer">
-    <img src="FPGA.png" alt="Vivado" width="40" height="40"/>
+    <img src="FPGA.png" alt="Vivado" width="40" height="40" style="box-shadow: 0px 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
-</code>
-
-<code>
   <a href="https://www.microsemi.com/document-portal/doc_view/136363-modelsim-me-10-4c-tutorial-for-libero-soc-v11-7" target="_blank" rel="noreferrer">
-    <img src="ModelSim.png" alt="ModelSim" width="40" height="40"/>
+    <img src="ModelSim.png" alt="ModelSim" width="40" height="40" style="box-shadow: 0px 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
-</code>
-
-<code>
-  <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
-</code>
-
+  <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git" style="box-shadow: 0px 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
 </p>
 
-### 🖥️ OS:
-
-<p align="center">
-  <code>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-  </code>
-  <code>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg" width="40" height="40" alt="Windows" />
-  </code>
+### 💻 OS:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" style="box-shadow: 0px 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+  <img src="https://www.pngkit.com/png/detail/207-2078597_windows-icon-png.png" width="40" height="40" alt="Windows" style="box-shadow: 0px 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
 </p>
-
 
 ---
 
@@ -113,4 +80,9 @@
     </a>
   </td>
 </tr>
+
+<br><br>
+
+<hr>
+
 
