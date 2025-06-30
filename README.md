@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdallah Yahia</h1>
 <h3 align="center">A passionate Digital IC Design & ASIC Engineer</h3>
 
+## <picture><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100px"></picture> About me
+
+<picture> 
+  <img align="right" src="https://clipart-library.com/img/2091643.gif" width="350px">
+</picture>
+
+
 - ✨ I’m currently participating in **the summer internship on Digital Design Using FPGA, sponsored by NTI**
 
 - 💻 I’m currently learning **Verilog, Linux, and the Digital ASIC IC Design flow**
@@ -37,3 +44,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" alt="Eclipse" width="40" height="40"/>
 </p>
+
+
+
