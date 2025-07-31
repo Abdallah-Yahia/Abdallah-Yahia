@@ -14,7 +14,7 @@
 
 - 📌 My Certificates: [View here](https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing)
 
-- 📄 My CV: [View here](https://drive.google.com/file/d/1X8Go7rp7-WJNK42tfXAf0OOGb9-Z1COn/view?usp=sharing)
+- 📄 My CV: [View here](https://drive.google.com/file/d/1zyE6jyZmt5C58grz2xDga5QuRd_F9pbZ/view?usp=sharing)
 
 - 📢 Reach me at: **abdallah.yahia.elagroudy@gmail.com**
 
