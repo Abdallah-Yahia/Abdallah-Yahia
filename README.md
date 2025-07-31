@@ -16,7 +16,7 @@
 
 - 📄 My CV: [View here](https://drive.google.com/file/d/1eHvlaL44qvbzmGHJzgocBlZpQ-LxaD17/view?usp=drive_link)
 
-- 📢 Reach me at: **abdallahyahia202@gmail.com**
+- 📢 Reach me at: **abdallah.yahia.elagroudy@gmail.com**
 
 ---
 
