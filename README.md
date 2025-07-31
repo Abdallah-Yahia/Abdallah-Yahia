@@ -6,7 +6,7 @@
   <img align="right" src="https://clipart-library.com/img/2091643.gif" width="300px">
 </picture>
 
-- ✨ I’m currently participating in **NTI Summer internship " Digital Design Using FPGA"**
+- ✨ Ex-Trainee at NTI Summer Internship "Digital Design Using FPGA
 
 - 💻 I’m currently learning **Verilog, Linux, and the Digital ASIC IC Design flow**
 
