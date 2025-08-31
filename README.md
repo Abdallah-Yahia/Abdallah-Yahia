@@ -8,7 +8,7 @@
 
 - ✨ Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
 
-- 💻 I’m currently learning **Verilog, Linux, and the Digital ASIC IC Design flow**
+- 💻 I’m currently learning **Verilog , ASIC flow**
 
 - 🤝 I’m looking to collaborate on **Digital IC design and ASIC-related projects**
 
