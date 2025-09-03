@@ -4,7 +4,9 @@
 <picture> 
   <img align="left" src="https://clipart-library.com/img/2091643.gif" width="70px">
 </picture>
+
 ## About me:
+
 <picture> 
   <img align="right" src="https://clipart-library.com/img/2091643.gif" width="300px">
 </picture>
