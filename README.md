@@ -7,7 +7,7 @@
 </p>
 
 <picture> 
-    <img align="left" src="neon_chip_fast.gif" width="70px" style="margin-right:330px;"/>
+    <img align="right" src="neon_chip_fast.gif" width="70px" style="margin-right:300px;"/>
   <h2>
 </picture>
 
