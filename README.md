@@ -3,7 +3,7 @@
 
 <picture> 
   <img align="left" src="![Uploading image.png…]()
-" width="60px" style="margin-right:15px;"/>
+" width="600px" style="margin-right:15px;"/>
 </picture>
 
 ## About me :
