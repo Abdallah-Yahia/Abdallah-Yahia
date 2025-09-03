@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdallah Yahia</h1>
 <h3 align="center"> Digital IC Design & ASIC Engineer</h3>
 
-<p> <img align="left" src="neon_chip_fast.gif" width="5px" style="margin-right:10px;"/> 
+<p> <img align="left" src="neon_chip_fast.gif" width="60px" style="margin-right:10px;"/> 
   
 ## About me :
 
