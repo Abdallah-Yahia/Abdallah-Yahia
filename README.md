@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdallah Yahia</h1>
 <h3 align="center"> Digital IC Design & ASIC Engineer</h3>
 
-<p> <img align="left" src="neon_chip_fast.gif" width="45px" style="margin-right:10px;"/> 
+<img align="left" src="neon_chip_fast.gif" width="45px" style="margin-right:10px;"/> 
   
 ## About me :
 
 <picture> 
-<img src="[URL_OF_CHOICE](https://media1.giphy.com/media/jtXRDVzaCPXSynUz7h/200.gif?cid=790b76117iaibgaj4j0k9pf9gjhqnz4ff5s0dy6b0y35n17x&rid=200.gif&ct=g)" alt="Neon IC Glow" width="300px" />
 
 </picture>
 
