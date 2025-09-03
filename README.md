@@ -96,7 +96,20 @@
 </tr>
 
 <br><br>
+## 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdallah-Yahia&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Yahia&layout=compact&theme=tokyonight" height="180px"/>
+</p>
+
+---
+
+<h3 align="center">👀 Profile Views</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdallah-Yahia&style=for-the-badge" alt="Profile Views" />
+</p>
 <hr>
 
 
