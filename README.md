@@ -6,6 +6,7 @@
 ## About me :
 
 <picture> 
+<img src="[URL_OF_CHOICE](https://media1.giphy.com/media/jtXRDVzaCPXSynUz7h/200.gif?cid=790b76117iaibgaj4j0k9pf9gjhqnz4ff5s0dy6b0y35n17x&rid=200.gif&ct=g)" alt="Neon IC Glow" width="300px" />
 
 </picture>
 
