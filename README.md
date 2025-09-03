@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdallah Yahia</h1>
 <h3 align="center"> Digital IC Design & ASIC Engineer</h3>
 
-<table>
-  <tr>
-    <td>
-      <img src="neon_chip_fast.gif" width="70px"/>
-    </td>
-    <td>
-      <h2>About me :</h2>
-    </td>
-  </tr>
-</table>
+<p>
+  <img align="left" src="neon_chip_fast.gif" width="70px" style="margin-right:10px;"/>
+  <b>About me :</b>
+</p>
+
 
 <picture> 
 
