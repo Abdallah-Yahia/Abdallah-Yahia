@@ -2,8 +2,7 @@
 <h3 align="center"> Digital IC Design & ASIC Engineer</h3>
 
 <picture> 
-  <img align="left" src="![Uploading image.png…]()
-" width="600px" style="margin-right:15px;"/>
+ <img align="left" src="https://chatgpt.com/c/68b8b354-87bc-8321-8c0e-578733716cb0" width="65px">
 </picture>
 
 ## About me :
