@@ -7,8 +7,7 @@
 </p>
 
 <picture> 
-    <img align="right" src="neon_chip_fast.gif" width="70px" style="margin-right:3000px;"/>
-  <h2>
+    <img align="right" src="neon_chip_fast.gif" width="70px" style="margin-right:300px;"/>
 </picture>
 
 - ✨ Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
