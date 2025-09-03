@@ -2,8 +2,7 @@
 <h3 align="center"> Digital IC Design & ASIC Engineer</h3>
 
 <picture> 
- <img align="left" src="<img width="1024" height="1024" alt="ChatGPT Image Sep 4, 2025, 02_04_51 AM" src="https://github.com/user-attachments/assets/7ffaba46-0800-4e62-b1f9-81d0c4e7dd55" />
-">
+ <img align="left" src="https://clipart-library.com/img/2091643.gif" width="65px">
 </picture>
 
 ## About me :
