@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdallah Yahia</h1>
 <h3 align="center"> Digital IC Design & ASIC Engineer</h3>
 
-## <img align="left" src="https://clipart-library.com/img/2091643.gif" width="100px"> About me:
+## <img align="left" src="https://clipart-library.com/img/2091643.gif" width="70px"> About me:
 <picture> 
   <img align="right" src="https://clipart-library.com/img/2091643.gif" width="300px">
 </picture>
