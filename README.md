@@ -3,7 +3,7 @@
 
 <p>
   <img align="left" src="neon_chip_fast.gif" width="40px" style="margin-right:10px;"/>
-  <h2>About me :</h2>
+  <h2> About me :</h2>
 </p>
 
 <picture> 
