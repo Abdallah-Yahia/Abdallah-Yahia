@@ -3,9 +3,8 @@
   
 ## About me :
 
-<picture> 
+<picture> <img align="right" src="https://clipart-library.com/img/2091643.gif" width="300px"> </picture>
 
-</picture>
 
 - ✨ Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
 
