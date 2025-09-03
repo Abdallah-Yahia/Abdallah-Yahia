@@ -20,68 +20,55 @@
 
 ---
 
-## 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdallah-yahia" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fares-hegazi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/abdallah.yahia.545913" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://www.facebook.com/fares.wael.37" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
-</p>
+    <a href="https://www.instagram.com/fareswaaell" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://x.com/hegazii_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/201009159141" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp--v1.png" height="30" width="40" />
+  </a>
+</p>  
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Skills</b>
+## 🛠 Skills  
 
-### 🧠 Languages:
-<p style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <a href="https://www.chipverify.com/" target="_blank" rel="noreferrer">
-    <img src="verilog.png" alt="Verilog" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
-  </a>
-  <a href="https://www.nandland.com/vhdl/tutorials/" target="_blank" rel="noreferrer">
-    <img src="https://stepik.org/media/cache/images/courses/94951/cover_QUUWIm9/2661f137ae94e2123128ed1144ce82ee.PNG" alt="VHDL" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
-  </a>
-</p>
+### 💻 Languages  
+<p align="center">
+  <code><img src="verilog.png" alt="Verilog" width="40" height="40"/></code>
+  <code><img src="vhdl.png" alt="VHDL" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></code>
+</p>  
 
-### 🛠️ Tools:
-<p style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
-    <img src="https://hackaday.com/wp-content/uploads/2015/05/xi.jpg?w=600&h=600" alt="Vivado" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
-  </a>
-  <a href="https://eda.sw.siemens.com/en-US/ic/questa/simulation/advanced-simulator/" target="_blank" rel="noreferrer">
-    <img src="QuestaSim.png" alt="QuestaSim" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
-  </a>
-  <a href="https://www.microsemi.com/document-portal/doc_view/136363-modelsim-me-10-4c-tutorial-for-libero-soc-v11-7" target="_blank" rel="noreferrer">
-    <img src="ModelSim.png" alt="ModelSim" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
-  </a>
-  <a href="https://eda.sw.siemens.com/en-US/ic/questa-one/design-solutions/lint/" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/uc?export=view&id=1nLolSbXkpJdrzqGtHPqYwce16c7CW7Ls" alt="Questa Lint" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
-  </a>
-</p>
+### ⚙ Tools & Platforms  
+<p align="center">
+  <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
+  <code><img src="download.png" alt="Questa Lint" width="40" height="40"/></code>
+  <code><img src="ModelSim.png" alt="ModelSim" width="40" height="40"/></code>
+  <code><img src="FPGA.png" alt="Vivado" width="40" height="40"/></code>
+  <code><img src="ise.png" alt="ISE Design Suite" width="40" height="40"/></code>
+  <code><img src="multi.png" alt="Multisim" width="40" height="40"/></code>
+  <code><img src="ltspice.jpg" alt="LTSpice" width="40" height="40"/></code>
+  <code><img src="easyeda-thumbnail.png" alt="EasyEDA" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/></code>
+  <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
+</p>  
 
-### 💻 OS:
-<p style="display: flex; gap: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
-  <img src="https://www.pngkit.com/png/detail/207-2078597_windows-icon-png.png" width="40" height="40" alt="Windows" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
-</p>
+---
 
-<br><br>
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -89,13 +76,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Yahia&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
----
-
+--- 
 <h3 align="center">👀 Profile Views</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdallah-Yahia&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abdallah-Yahia&style=for-the-badge" alt="Profile Views" />
 </p>
-<hr>
-
-
