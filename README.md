@@ -2,7 +2,7 @@
 <h3 align="center"> Digital IC Design & ASIC Engineer</h3>
 
 <picture> 
- <img align="left" src="https://clipart-library.com/img/2091643.gif" width="65px">
+ <img align="left" src="neon_chip_fast.gif" width="65px">
 </picture>
 
 ## About me :
