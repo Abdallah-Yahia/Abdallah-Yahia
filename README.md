@@ -51,7 +51,7 @@
 <p align="center">
   <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
   <code><img src="Questa-Lint.png" alt="Questa Lint" width="40" height="40"/></code>
-  <code><img src="Vivado.jpg" alt="Vivado" width="40" height="40"/></code>
+  <code><img src="Vivado.png" alt="Vivado" width="40" height="40"/></code>
   <code><img src="ModelSim.png" alt="ModelSim" width="40" height="40"/></code>
   <code><img src="FPGA.png" alt="Vivado" width="40" height="40"/></code>
   <code><img src="ise.png" alt="ISE Design Suite" width="40" height="40"/></code>
