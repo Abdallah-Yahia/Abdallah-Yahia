@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdallah Yahia</h1>
-<h3 align="center">A passionate Digital IC Design & ASIC Engineer</h3>
+<h3 align="center"> Digital IC Design & ASIC Engineer</h3>
 
 ## About me:
 <picture> 
@@ -51,7 +51,7 @@
 <p align="center">
   <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
   <code><img src="Questa-Lint.png" alt="Questa Lint" width="40" height="40"/></code>
-    <code><img src="vivado.jpg" alt="Vivado" width="40" height="40"/></code>
+  <code><img src="vivado.jpg" alt="Vivado" width="40" height="40"/></code>
   <code><img src="ModelSim.png" alt="ModelSim" width="40" height="40"/></code>
   <code><img src="FPGA.png" alt="Vivado" width="40" height="40"/></code>
   <code><img src="ise.png" alt="ISE Design Suite" width="40" height="40"/></code>
