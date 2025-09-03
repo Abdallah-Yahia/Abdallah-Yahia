@@ -1,26 +1,24 @@
 <h1 align="center">Hi 👋, I'm Abdallah Yahia</h1>
 <h3 align="center"> Digital IC Design & ASIC Engineer</h3>
 
-<p>
-  <img align="left" src="neon_chip_fast.gif" width="40px" style="margin-right:10px;"/>
-  <h2> About me :</h2>
-</p>
-
-<picture> 
-  <img align="right" src="https://clipart-library.com/img/2091643.gif" width="300px">
-</picture>
-
-- ✨ Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
-
-- 💻 I’m currently learning **Verilog , ASIC flow**
-
-- 🤝 I’m looking to collaborate on **Digital IC design and ASIC-related projects**
-
-- 📌 My Certificates: [View here](https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing)
-
-- 📄 My CV: [View here](https://drive.google.com/file/d/1LP-78kMHdRtCHeAtxfA4K2KVZfv0Vb1u/view?usp=sharing)
-
-- 📢 Reach me at: **abdallah.yahia.elagroudy@gmail.com**
+<table>
+  <tr>
+    <td>
+      <h2>About me :</h2>
+      <ul>
+        <li>✨ Ex-Trainee at NTI Summer Internship <b>"Digital Design Using FPGA"</b></li>
+        <li>💻 I’m currently learning <b>Verilog , ASIC flow</b></li>
+        <li>🤝 I’m looking to collaborate on <b>Digital IC design and ASIC-related projects</b></li>
+        <li>📌 My Certificates: <a href="https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing">View here</a></li>
+        <li>📄 My CV: <a href="https://drive.google.com/file/d/1LP-78kMHdRtCHeAtxfA4K2KVZfv0Vb1u/view?usp=sharing">View here</a></li>
+        <li>📢 Reach me at: <b>abdallah.yahia.elagroudy@gmail.com</b></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://clipart-library.com/img/2091643.gif" width="300px">
+    </td>
+  </tr>
+</table>
 
 ---
 
