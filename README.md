@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abdallah Yahia</h1>
 <h3 align="center"> Digital IC Design & ASIC Engineer</h3>
 
-<picture> 
- <img align="left" src="neon_chip_fast.gif" width="50px">
-</picture>
-
+<p align="left">
+  <img src="neon_chip_fast.gif" width="70px">
+</p>
 
 ## About me :
 
-<picture> 
-  <img align="right" src="https://clipart-library.com/img/2091643.gif" width="300px">
-</picture>
+<p align="right">
+  <img src="https://clipart-library.com/img/2091643.gif" width="300px">
+</p>
+
 
 - ✨ Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
 
