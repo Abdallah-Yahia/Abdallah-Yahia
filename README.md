@@ -81,7 +81,6 @@
   <img src="https://www.pngkit.com/png/detail/207-2078597_windows-icon-png.png" width="40" height="40" alt="Windows" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
 </p>
 
----
 <br><br>
 ## 📊 GitHub Stats  
 
