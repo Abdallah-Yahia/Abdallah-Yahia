@@ -2,12 +2,12 @@
 <h3 align="center"> Digital IC Design & ASIC Engineer</h3>
 
 <p>
-  <img align="left" src="neon_chip_fast.gif" width="70px" style="margin-right:10px;"/>
+  <img align="left" src="neon_chip_fast.gif" width="70px" style="margin-right:50px;"/>
   <h2> About me :</h2>
 </p>
 
 <picture> 
-    <img align="right" src="neon_chip_fast.gif" width="70px" style="margin-right:300px;"/>
+
 </picture>
 
 - ✨ Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
