@@ -23,19 +23,13 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fares-hegazi" target="_blank">
+  <a href="https://www.linkedin.com/in/abdallah-yahia" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/fares.wael.37" target="_blank">
+  <a href="https://https://www.facebook.com/abdallah.yahia.545913/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
-    <a href="https://www.instagram.com/fareswaaell" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://x.com/hegazii_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://wa.me/201009159141" target="_blank">
+  <a href="https://wa.me/201554438814" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp--v1.png" height="30" width="40" />
   </a>
 </p>  
