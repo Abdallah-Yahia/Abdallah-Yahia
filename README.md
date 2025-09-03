@@ -8,7 +8,7 @@
 ## About me :
 
 <p align="right">
-  <img src="https://clipart-library.com/img/2091643.gif" width="300px">
+  <img src="https://clipart-library.com/img/2091643.gif" width="250px">
 </p>
 
 
