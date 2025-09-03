@@ -51,11 +51,11 @@
 <p align="center">
   <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
   <code><img src="download.png" alt="Questa Lint" width="40" height="40"/></code>
+    <code><img src="vivado.jpg" alt="Vivado" width="40" height="40"/></code>
   <code><img src="ModelSim.png" alt="ModelSim" width="40" height="40"/></code>
   <code><img src="FPGA.png" alt="Vivado" width="40" height="40"/></code>
   <code><img src="ise.png" alt="ISE Design Suite" width="40" height="40"/></code>
   <code><img src="multi.png" alt="Multisim" width="40" height="40"/></code>
-  <code><img src="ltspice.jpg" alt="LTSpice" width="40" height="40"/></code>
   <code><img src="easyeda-thumbnail.png" alt="EasyEDA" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/></code>
   <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
