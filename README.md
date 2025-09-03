@@ -4,13 +4,16 @@
 <p align="left">
   <img src="neon_chip_fast.gif" width="70px">
 </p>
+<picture> 
+ <img align="left" src="neon_chip_fast.gif" width="50px">
+</picture>
+
 
 ## About me :
 
-<p align="right">
-  <img src="https://clipart-library.com/img/2091643.gif" width="250px">
-</p>
-
+<picture> 
+  <img align="right" src="https://clipart-library.com/img/2091643.gif" width="300px">
+</picture>
 
 - ✨ Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
 
