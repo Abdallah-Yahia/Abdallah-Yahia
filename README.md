@@ -2,7 +2,7 @@
 <h3 align="center"> Digital IC Design & ASIC Engineer</h3>
 
 <picture> 
- <img align="left" src="https://chatgpt.com/s/m_68b8ca56e0f481918e7f39d4e48f4ad6" width="65px">
+ <img align="left" src="https://drive.google.com/file/d/12Oy7qMr4qy5JweKoPm8-E4juKq558cv0/view?usp=sharing">
 </picture>
 
 ## About me :
