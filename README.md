@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdallah Yahia</h1>
-<h3 align="center"> Digital IC Design & ASIC Engineer</h3>
+<h3 align="center"> Network Engineer</h3>
   
 ## About me :
 
@@ -8,9 +8,9 @@
 
 - ✨ Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
 
-- 💻 I’m currently learning **Verilog , ASIC flow**
+- 💻 I’m currently learning **CCNA**
 
-- 🤝 I’m looking to collaborate on **Digital IC design and ASIC-related projects**
+- 🤝 I’m looking to collaborate on **Network-related projects**
 
 - 📌 My Certificates: [View here](https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing)
 
