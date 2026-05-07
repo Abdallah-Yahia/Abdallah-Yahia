@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdallah Yahia</h1>
-<h3 align="center"> Network Engineer</h3>
+<h3 align="center"> ASIC Physical Design Engineer</h3>
   
 ## About me :
 
 
 - ✨ Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
 
-- 💻 I’m currently learning **CCNA**
+- 💻 I’m currently learning **ASIC Flow**
 
 - 🤝 I’m looking to collaborate on **Network-related projects**
 
