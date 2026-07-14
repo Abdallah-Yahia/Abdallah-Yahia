@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdallah Yahia</h1>
-<h3 align="center"> ASIC Physical Design Engineer</h3>
+<h3 align="center"> Senior ECE student @ Mansoura University | Digital IC Design & ASIC Physical Design Enthusiast</h3>
   
 ## About me :
 
 
-- ✨ Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
+-  Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
 
-- 💻 I’m currently learning **ASIC Flow**
+-  I’m currently learning **ASIC Flow**
 
 - 📌 My Certificates: [View here](https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing)
 
