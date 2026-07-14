@@ -8,11 +8,9 @@
 
 - 💻 I’m currently learning **ASIC Flow**
 
-- 🤝 I’m looking to collaborate on **Network-related projects**
-
 - 📌 My Certificates: [View here](https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing)
 
-- 📄 My CV: [View here](https://drive.google.com/file/d/1LP-78kMHdRtCHeAtxfA4K2KVZfv0Vb1u/view?usp=sharing)
+- 📄 My CV: [View here](https://drive.google.com/file/d/1sTySRUeXfsOKMPWB3IE81vfLbwjPskju/view?usp=drivesdk)
 
 - 📢 Reach me at: **abdallah.yahia.elagroudy@gmail.com**
 
