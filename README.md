@@ -1,4 +1,4 @@
-# 👨‍💻 Abdallah Yahia
+#  Abdallah Yahia
 
 ![Network Engineering](https://img.shields.io/badge/Focus-Network_Engineering-blue?style=flat-square)
 ![Network Security](https://img.shields.io/badge/Focus-Network_Security-red?style=flat-square)
