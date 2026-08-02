@@ -2,10 +2,11 @@
 <h3 align="center">Network Engineer</h3>
   
 ## About me :
-
-
--  Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
--  I’m currently learning **ASIC Flow**
+* 🎓 Senior Electronics & Communications Engineering Student at **Mansoura University**.
+* 🌐 Specializing in **Network Infrastructure, Routing & Switching, and Security Monitoring**.
+* 🔄 **Currently Learning:** DevOps practices, Linux Administration, and Network Automation.
+* 🛠️ **Tools & Technologies:** Nmap, Wireshark, GNS3, Cisco Packet Tracer, VMware, SNMP, Docker & Linux.
+* ⚡ Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
 - 📌 My Certificates: [View here](https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing)
 - 📄 My CV: [View here](https://drive.google.com/file/d/1sTySRUeXfsOKMPWB3IE81vfLbwjPskju/view?usp=drivesdk)
 - 📢 Reach me at: **abdallah.yahia.elagroudy@gmail.com**
