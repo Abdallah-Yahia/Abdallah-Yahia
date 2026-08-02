@@ -13,10 +13,10 @@ Welcome! I'm an engineering student specializing in designing robust network top
 * 🌐 **Focus Areas:** Core Networking, Network Security & Transitioning into DevOps.
 * 🔄 **Currently Learning:** DevOps practices, Linux Administration, and Network Automation.
 * 🛠️ **Tools & Technologies:** Nmap, Wireshark, GNS3, Cisco Packet Tracer, VMware, SNMP, Docker & Linux.
-* ⚡ Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
-* 📌 My Certificates: [View here](https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing)
-* 📄 My CV: [View here](https://drive.google.com/file/d/1lMSoBRpB7CkUNnU3bKE3J3e4A_lH6WDw/view?usp=drive_link)
-* 📢 Reach me at: **abdallah.yahia.elagroudy@gmail.com**
+* ⚡ Ex-Trainee at NTI Summer Internship "Digital Design Using FPGA".
+* 📌 **My Certificates:** [View here](https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing)
+* 📄 **My CV:** [View here](https://drive.google.com/file/d/1lMSoBRpB7CkUNnU3bKE3J3e4A_lH6WDw/view?usp=drive_link)
+* 📢 **Reach me at:** **abdallah.yahia.elagroudy@gmail.com**
 
 ---
 
