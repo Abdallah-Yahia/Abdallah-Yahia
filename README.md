@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abdallah Yahia</h1>
-<h3 align="center">Network Engineer</h3>
+# 👨‍💻 Abdallah Yahia
+
+![Network Engineering](https://img.shields.io/badge/Focus-Network_Engineering-blue?style=flat-square)
+![Network Security](https://img.shields.io/badge/Focus-Network_Security-red?style=flat-square)
+![DevOps Learner](https://img.shields.io/badge/Learning-DevOps_%26_Automation-green?style=flat-square)
+
+---
+
+Welcome! I'm an engineering student specializing in designing robust network topologies, conducting security & traffic analysis, and moving steadily toward automated NetOps/DevOps infrastructure.
   
 ## About me :
 * 🎓 Senior Electronics & Communications Engineering Student at **Mansoura University**.
