@@ -3,7 +3,7 @@
   
 ## About me :
 * 🎓 Senior Electronics & Communications Engineering Student at **Mansoura University**.
-* 🌐 **Focus Areas:** Core Networking, Network Security & Transitioning into DevOpsز
+* 🌐 **Focus Areas:** Core Networking, Network Security & Transitioning into DevOps.
 * 🔄 **Currently Learning:** DevOps practices, Linux Administration, and Network Automation.
 * 🛠️ **Tools & Technologies:** Nmap, Wireshark, GNS3, Cisco Packet Tracer, VMware, SNMP, Docker & Linux.
 * ⚡ Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
