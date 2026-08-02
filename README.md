@@ -42,8 +42,8 @@
 
 ### ⚙ Tools & Platforms  
 <p align="center">
-  <code><img src="QuestaSim.png" alt="Nmap" width="40" height="40"/></code>
-  <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
+  <code><img src="Nmap.jpeg" alt="Nmap" width="40" height="40"/></code>
+  <code><img src="Cisco Packet Tracer.png" alt="Cisco Packet Tracer" width="40" height="40"/></code>
   <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
   <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
   <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
