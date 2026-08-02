@@ -42,11 +42,13 @@
 
 ### ⚙ Tools & Platforms  
 <p align="center">
-  <code><img src="Nmap.jpeg" alt="Nmap" width="40" height="40"/></code>
+  <code><img src="GNS3.png" alt="GNS3" width="40" height="40"/></code>
+  <code><img src="Wireshark.png" alt="Wireshark" width="40" height="40"/></code>
   <code><img src="Cisco Packet Tracer.png" alt="Cisco Packet Tracer" width="40" height="40"/></code>
+  <code><img src="Docker.png" alt="Docker" width="40" height="40"/></code>
+  <code><img src="Nmap.jpeg" alt="Nmap" width="40" height="40"/></code>
   <code><img src="Kiwi Syslog Server .png" alt="Kiwi Syslog Server" width="40" height="40"/></code>
   <code><img src="Snort.png" alt="Snort" width="40" height="40"/></code>
-  <code><img src="GNS3.png" alt="GNS3" width="40" height="40"/></code>
   <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
   <code><img src="Questa-Lint.png" alt="Questa Lint" width="40" height="40"/></code>
   <code><img src="Vivado.png" alt="Vivado" width="40" height="40"/></code>
