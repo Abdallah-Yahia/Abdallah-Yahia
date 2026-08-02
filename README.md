@@ -5,13 +5,9 @@
 
 
 -  Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
-
 -  I’m currently learning **ASIC Flow**
-
 - 📌 My Certificates: [View here](https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing)
-
 - 📄 My CV: [View here](https://drive.google.com/file/d/1sTySRUeXfsOKMPWB3IE81vfLbwjPskju/view?usp=drivesdk)
-
 - 📢 Reach me at: **abdallah.yahia.elagroudy@gmail.com**
 
 ---
