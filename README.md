@@ -59,6 +59,7 @@
   <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
 </p>  
 
+
 ### 💻 Operating Systems
 <p align="center">
   <code><img src="Linux.jpg" alt="Linux" width="40" height="40"/></code>
