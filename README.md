@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdallah Yahia</h1>
-<h3 align="center">Digital IC Design & ASIC Physical Design Enthusiast</h3>
+<h3 align="center">Network Enthusiast</h3>
   
 ## About me :
 
