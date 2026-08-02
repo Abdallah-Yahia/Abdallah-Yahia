@@ -6,7 +6,7 @@
 
 ---
 
-Welcome! I'm an engineering student specializing in designing robust network topologies, conducting security & traffic analysis, and moving steadily toward automated NetOps/DevOps infrastructure.
+Welcome! I'm an engineering student specializing in designing robust network topologies, conducting security & traffic analysis, and moving steadily toward automated DevOps infrastructure.
   
 ## About me :
 * 🎓 Senior Electronics & Communications Engineering Student at **Mansoura University**.
