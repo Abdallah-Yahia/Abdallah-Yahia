@@ -42,8 +42,7 @@
 
 ### ⚙ Tools & Platforms  
 <p align="center">
-  ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-  <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
+  <code><img src="QuestaSim.png" alt="Nmap" width="40" height="40"/></code>
   <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
   <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
   <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
