@@ -91,7 +91,3 @@ Welcome! I'm an engineering student specializing in designing robust network top
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
