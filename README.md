@@ -89,3 +89,9 @@ Welcome! I'm an engineering student specializing in designing robust network top
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdallah-Yahia&style=for-the-badge" alt="Profile Views" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
