@@ -6,12 +6,12 @@
 
 ---
 
-Welcome! I'm an engineering student specializing in designing robust network topologies, conducting security & traffic analysis, and moving steadily toward automated DevOps infrastructure.
+Welcome! I'm an engineering student specializing in designing robust network topologies, conducting security & traffic analysis, and moving steadily toward automated Cloud infrastructure.
   
 ## About me :
 * 🎓 Senior Electronics & Communications Engineering Student at **Mansoura University**.
-* 🌐 **Focus Areas:** Core Networking, Network Security & Transitioning into DevOps.
-* 🔄 **Currently Learning:** DevOps practices, Linux Administration, and Network Automation.
+* 🌐 **Focus Areas:** Core Networking, Network Security & Transitioning into Cloud.
+* 🔄 **Currently Learning:** Cloud practices, Linux Administration, and Network Automation.
 * 🛠️ **Tools & Technologies:** Nmap, Wireshark, GNS3, Cisco Packet Tracer, VMware, SNMP, Docker & Linux.
 * ⚡ Ex-Trainee at NTI Summer Internship "Digital Design Using FPGA".
 * 📌 **My Certificates:** [View here](https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing)
