@@ -2,7 +2,7 @@
 
 ![Network Engineering](https://img.shields.io/badge/Focus-Network_Engineering-blue?style=flat-square)
 ![Network Security](https://img.shields.io/badge/Focus-Network_Security-red?style=flat-square)
-![DevOps Learner](https://img.shields.io/badge/Learning-DevOps_%26_Automation-green?style=flat-square)
+![Cloud Learner](https://img.shields.io/badge/Learning-Cloud_%26_Automation-green?style=flat-square)
 
 ---
 
