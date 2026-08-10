@@ -10,7 +10,7 @@ Welcome! I'm an engineering student specializing in designing robust network top
   
 ## About me :
 * 🎓 Senior Electronics & Communications Engineering Student at **Mansoura University**.
-* 🌐 **Focus Areas:** Core Networking, Network Security & Transitioning into Cloud.
+* 🌐 **Focus Areas:** Core Networking, Network Security & Transitioning into Cloud Infrastructure.
 * 🔄 **Currently Learning:** Cloud practices, Linux Administration, and Network Automation.
 * 🛠️ **Tools & Technologies:** Nmap, Wireshark, GNS3, Cisco Packet Tracer, VMware, SNMP, Docker & Linux.
 * ⚡ Ex-Trainee at NTI Summer Internship "Digital Design Using FPGA".
