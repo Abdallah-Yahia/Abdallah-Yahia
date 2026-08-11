@@ -15,7 +15,7 @@ Welcome! I'm an engineering student specializing in designing robust network top
 * 🛠️ **Tools & Technologies:** Nmap, Wireshark, GNS3, Cisco Packet Tracer, VMware, SNMP, Docker & Linux.
 * ⚡ Ex-Trainee at NTI Summer Internship "Digital Design Using FPGA".
 * 📌 **My Certificates:** [View here](https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing)
-* 📄 **My CV:** [View here](https://drive.google.com/file/d/1lMSoBRpB7CkUNnU3bKE3J3e4A_lH6WDw/view?usp=drive_link)
+* 📄 **My CV:** [View here](https://drive.google.com/file/d/1BMTwUoHugIsZmdF55eJK-1bUdJiqhSYh/view?usp=sharing)
 * 📢 **Reach me at:** **abdallah.yahia.elagroudy@gmail.com**
 
 ---
