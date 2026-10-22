@@ -74,7 +74,7 @@ Welcome! I am a Senior Electronics & Telecommunications Engineering student focu
 <h3 align="center">👀 Profile Views</h3>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.dev/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbdallah-Yahia&count_bg=%23007ACC&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdallah-Yahia.Abdallah-Yahia" alt="Profile Views" />
 </p>
 
 ---
