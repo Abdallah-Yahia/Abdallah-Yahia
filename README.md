@@ -70,10 +70,11 @@ Welcome! I am a Senior Electronics & Telecommunications Engineering student focu
 </p>
 
 --- 
+
 <h3 align="center">👀 Profile Views</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdallah-Yahia&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile_Views-Abdallah--Yahia-blue?style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
 ---
