@@ -74,7 +74,7 @@ Welcome! I am a Senior Electronics & Telecommunications Engineering student focu
 <h3 align="center">👀 Profile Views</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-Abdallah--Yahia-blue?style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://page-views.glitch.me/get/@Abdallah-Yahia" alt="Profile Views" />
 </p>
 
 ---
