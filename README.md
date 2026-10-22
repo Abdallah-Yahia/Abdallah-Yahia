@@ -1,22 +1,21 @@
-#  Abdallah Yahia
+# Abdallah Yahia
 
-![Network Engineering](https://img.shields.io/badge/Focus-Network_Engineering-blue?style=flat-square)
-![Network Security](https://img.shields.io/badge/Focus-Network_Security-red?style=flat-square)
-![Cloud Learner](https://img.shields.io/badge/Learning-Cloud_%26_Automation-green?style=flat-square)
+![Optical Transmission](https://img.shields.io/badge/Focus-Optical_Transmission-blue?style=flat-square)
+![DWDM & OTN](https://img.shields.io/badge/Focus-DWDM_%26_OTN-purple?style=flat-square)
+![Telecommunications](https://img.shields.io/badge/Specialization-Telecommunications_Engineering-green?style=flat-square)
 
 ---
 
-Welcome! I'm an engineering student specializing in designing robust network topologies, conducting security & traffic analysis, and moving steadily toward automated Cloud infrastructure.
-  
-## About me :
-* 🎓 Senior Electronics & Communications Engineering Student at **Mansoura University**.
-* 🌐 **Focus Areas:** Core Networking, Network Security & Transitioning into Cloud Infrastructure.
-* 🔄 **Currently Learning:** Cloud practices, Linux Administration, and Network Automation.
-* 🛠️ **Tools & Technologies:** Nmap, Wireshark, GNS3, Cisco Packet Tracer, VMware, SNMP, Docker & Linux.
-* ⚡ Ex-Trainee at NTI Summer Internship "Digital Design Using FPGA".
-* 📌 **My Certificates:** [View here](https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing)
-* 📄 **My CV:** [View here](https://drive.google.com/file/d/1BMTwUoHugIsZmdF55eJK-1bUdJiqhSYh/view?usp=sharing)
-* 📢 **Reach me at:** **abdallah.yahia.elagroudy@gmail.com**
+Welcome! I am a Senior Electronics & Telecommunications Engineering student focusing on Optical Transmission systems, DWDM technology, OTN architecture, and high-speed transport networks.
+
+## 📌 About Me:
+- 🎓 Senior Electronics & Telecommunications Engineering Student at **Mansoura University**.
+- 🌐 **Focus Areas:** Optical Transmission Systems, DWDM, OTN Networks, and Telecommunications Infrastructure.
+- 🔄 **Currently Learning:** Advanced DWDM Architecture, Optical Multiplexing, Transport Network Solutions, and Linux Administration.
+- 🛠️ **Tools & Technologies:** GNS3, Cisco Packet Tracer, Wireshark, VMware, Docker, and Linux.
+- 📌 **My Certificates:** [View here](https://drive.google.com/drive/folders/1PSKc5ty9PWCybV36b8lyjOq-8tHzMy70?usp=sharing)
+- 📄 **My CV:** [View here](https://drive.google.com/file/d/1BMTwUoHugIsZmdF55eJK-1bUdJiqhSYh/view?usp=sharing)
+- 📢 **Reach me at:** **abdallah.yahia.elagroudy@gmail.com**
 
 ---
 
@@ -38,42 +37,29 @@ Welcome! I'm an engineering student specializing in designing robust network top
 
 ## 🛠 Skills  
 
-### 💻 Languages  
-<p align="center">
-  <code><img src="verilog.png" alt="Verilog" width="40" height="40"/></code>
-  <code><img src="vhdl.png" alt="VHDL" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></code>
-</p>  
+### 💻 Core Telecommunications & Technologies  
+- Optical Transmission & Fiber Optics Fundamental Concepts
+- Dense Wavelength Division Multiplexing (DWDM) & OTN Architectures
+- Optical Multiplexing & Signal Routing
+- Routing & Switching Fundamentals
 
-### ⚙ Tools & Platforms  
+### ⚙ Tools & Simulation Platforms  
 <p align="center">
   <code><img src="GNS3.png" alt="GNS3" width="40" height="40"/></code>
   <code><img src="Wireshark.png" alt="Wireshark" width="40" height="40"/></code>
   <code><img src="Cisco Packet Tracer.png" alt="Cisco Packet Tracer" width="40" height="40"/></code>
   <code><img src="Docker.png" alt="Docker" width="40" height="40"/></code>
-  <code><img src="Nmap.jpeg" alt="Nmap" width="40" height="40"/></code>
-  <code><img src="Kiwi Syslog Server .png" alt="Kiwi Syslog Server" width="40" height="40"/></code>
-  <code><img src="Snort.png" alt="Snort" width="40" height="40"/></code>
-  <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
-  <code><img src="Questa-Lint.png" alt="Questa Lint" width="40" height="40"/></code>
-  <code><img src="Vivado.png" alt="Vivado" width="40" height="40"/></code>
-  <code><img src="ModelSim.png" alt="ModelSim" width="40" height="40"/></code>
-  <code><img src="FPGA.png" alt="Vivado" width="40" height="40"/></code>
-  <code><img src="ise.png" alt="ISE Design Suite" width="40" height="40"/></code>
-  <code><img src="multi.png" alt="Multisim" width="40" height="40"/></code>
-  <code><img src="easyeda-thumbnail.png" alt="EasyEDA" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/></code>
   <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
 </p>  
-
 
 ### 💻 Operating Systems
 <p align="center">
   <code><img src="Linux.jpg" alt="Linux" width="40" height="40"/></code>
   <code><img src="windows.webp" alt="Windows" width="40" height="40"/></code>
-</p>    
+</p>   
 
 ---
 ## 📊 GitHub Stats
